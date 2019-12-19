@@ -1,0 +1,77 @@
+{
+    "name": "Sysomos",
+    "description": "A unified, insights-driven social platform empowering marketers to search, discover, listen, publish, engage, and analyze across earned, owned, and paid media.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1482-sysomos.jpg",
+    "tags": [
+        "analysis",
+        "have api",
+        "new",
+        "semantic",
+        "social",
+        "texts",
+        "webinars"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/sysomos\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Sysomos",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1482-sysomos.jpg",
+            "humanURL": "http:\/\/sysomos.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/sysomos-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/sysomos-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "https:\/\/sysomos.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.sysomos.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds2.feedburner.com\/SysomosBlog"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/sysomos"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/sysomos"
+        },
+        {
+            "type": "Email",
+            "url": "salesupport@sysomos.com"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@sysomos.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/sysomos"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/sysomos.com"
+        }
+    ]
+}
